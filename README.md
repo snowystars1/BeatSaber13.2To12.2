@@ -9,6 +9,7 @@ TUTORIAL:
 4) You'll probably need Java as this is a .jar executable file. If, somehow, you don't already have Java. It can be found here: https://www.java.com/en/download/
 
 Time for the real tutorial:
+
 5) Go to the windows search bar in the bottom left of the desktop, and type: cmd
 6) Hit enter and a terminal window should open. Type java -jar $PATH_NAME$ (where $PATH_NAME$ represents the absolute path to the jar executable inside the folder you just downloaded.
 7) For example, if you downloaded to your desktop, it might look something like this: java -jar C:\Users\Chris\Desktop\BeatSaber13.2To12.2\BeatSaberMapCleanse\out\artifacts\BeatSaberMapCleanse_jar\BeatSaberMapCleanse.jar
