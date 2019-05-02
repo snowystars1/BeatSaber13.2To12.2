@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BeatSaberMapCleanse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeatSaberMapCleanse_jar</output-path>
+    <root id="archive" name="BeatSaberMapCleanse.jar">
+      <element id="module-output" name="BeatSaberMapCleanse" />
+    </root>
+  </artifact>
+</component>
